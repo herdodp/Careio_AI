@@ -1,0 +1,16 @@
+{
+  "class_indices": {
+    "augmented_benign": 0,
+    "augmented_malignant": 1
+  },
+  "class_names": [
+    "augmented_benign",
+    "augmented_malignant"
+  ],
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "threshold": 0.5
+}
